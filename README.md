@@ -1,6 +1,8 @@
 Engi
 ====
 
+NOTICE: Work on this project is currently halted, since being forked to [Vizor Create](https://github.com/vizorvr/vizor-create) (2015).
+
 Engi is a HTML5/WebGL-compliant [dataflow programming](https://en.wikipedia.org/wiki/Dataflow_programming) editor.
 
 Try a live demo at [engijs.org](http://engijs.org).
